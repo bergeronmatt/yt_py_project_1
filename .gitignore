@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+venv/Include/
+transactions2.xlsx
+venv/Lib/site-packages/__pycache__/
+venv/Lib/site-packages/et_xmlfile-1.0.1-py3.8.egg-info/
+venv/Lib/site-packages/et_xmlfile/
+venv/Lib/site-packages/jdcal-1.4.1.dist-info/
+venv/Lib/site-packages/jdcal.py
+venv/Lib/site-packages/openpyxl-3.0.5.dist-info/
+venv/Lib/site-packages/openpyxl/
